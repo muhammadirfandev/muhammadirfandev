@@ -10,7 +10,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/irfan-mughal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mirzarfan17@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="[#](https://www.upwork.com/freelancers/~0131c16e30275f58f4)"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1373C6?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+   <a href="[[#](https://www.upwork.com/freelancers/~0131c16e30275f58f4)]"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1373C6?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </div>
 
 <h3 align="left">🚀 Tech Stack:</h3>
