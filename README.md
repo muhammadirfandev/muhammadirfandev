@@ -13,7 +13,7 @@
    <a href="https://www.upwork.com/freelancers/~0131c16e30275f58f4"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1373C6?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </div>
 
-<h3 align="left">🚀 Tech Stack:</h3>
+<h3 align="left">🚀 Tech Stack :</h3>
 <div align="left">
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
